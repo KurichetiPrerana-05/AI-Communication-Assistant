@@ -1,0 +1,9 @@
+streamlit
+pandas
+torch
+transformers
+spacy
+sentence-transformers
+faiss-cpu
+plotly-express
+scikit-learn

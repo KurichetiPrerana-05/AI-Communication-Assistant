@@ -1,0 +1,3 @@
+To reset your password, go to the login page and click 'Forgot Password'.
+Our pricing tiers are Basic, Pro, and Enterprise. Details are on our pricing page.
+For billing errors, please provide your invoice number and we will correct it immediately.
